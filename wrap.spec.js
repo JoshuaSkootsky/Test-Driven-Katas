@@ -1,5 +1,5 @@
 const {expect}=require('chai')
-const wrap=require('./wraps')
+const wrap=require('./wrap')
 
 describe(' test 1 wrap',()=>{
   it ('Returns empty string if empty string was provided',()=>{
